@@ -66,6 +66,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0137-single-number-ii) |
@@ -125,6 +126,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
@@ -135,6 +137,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
