@@ -65,6 +65,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0002-add-two-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
