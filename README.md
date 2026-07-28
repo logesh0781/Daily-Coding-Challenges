@@ -62,6 +62,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
@@ -122,6 +123,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
@@ -185,4 +187,8 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0136-single-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
