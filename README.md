@@ -113,6 +113,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -194,4 +195,9 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
