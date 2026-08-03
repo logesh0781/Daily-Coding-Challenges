@@ -74,6 +74,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0137-single-number-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0142-linked-list-cycle-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -206,4 +208,8 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
