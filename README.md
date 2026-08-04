@@ -79,6 +79,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +118,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0066-plus-one](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -180,6 +182,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -212,4 +215,16 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
