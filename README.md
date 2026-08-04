@@ -77,6 +77,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0141-linked-list-cycle](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
