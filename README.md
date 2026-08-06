@@ -215,6 +215,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
