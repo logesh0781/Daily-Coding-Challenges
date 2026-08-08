@@ -112,6 +112,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0142-linked-list-cycle-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0024-swap-nodes-in-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
