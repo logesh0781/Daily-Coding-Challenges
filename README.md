@@ -85,6 +85,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +176,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
