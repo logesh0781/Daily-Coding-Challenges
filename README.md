@@ -88,6 +88,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +123,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0206-reverse-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0876-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
