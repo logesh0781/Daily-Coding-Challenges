@@ -85,6 +85,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -123,6 +124,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0206-reverse-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -215,6 +217,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,4 +265,16 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
