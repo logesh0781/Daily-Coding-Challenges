@@ -123,6 +123,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0203-remove-linked-list-elements](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
