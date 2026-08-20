@@ -217,6 +217,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
@@ -245,6 +246,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -280,4 +282,8 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
