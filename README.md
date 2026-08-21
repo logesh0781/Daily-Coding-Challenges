@@ -141,6 +141,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
+| [2864-maximum-odd-binary-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -240,6 +241,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0011-container-with-most-water) |
+| [2864-maximum-odd-binary-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -249,6 +251,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
+| [2864-maximum-odd-binary-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
