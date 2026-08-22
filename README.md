@@ -75,6 +75,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0136-single-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
@@ -136,6 +137,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0009-palindrome-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
@@ -168,6 +170,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0142-linked-list-cycle-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0876-middle-of-the-linked-list) |
