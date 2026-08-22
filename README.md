@@ -145,6 +145,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
