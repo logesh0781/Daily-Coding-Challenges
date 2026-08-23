@@ -79,6 +79,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -139,6 +141,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0168-excel-sheet-column-title](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -182,6 +185,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0033-search-in-rotated-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -191,6 +195,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -241,6 +246,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0136-single-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
