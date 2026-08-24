@@ -299,4 +299,16 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
