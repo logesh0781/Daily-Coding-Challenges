@@ -92,6 +92,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
