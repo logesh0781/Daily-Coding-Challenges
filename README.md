@@ -98,6 +98,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0160-intersection-of-two-linked-lists) |
@@ -263,6 +264,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
@@ -273,6 +275,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0219-contains-duplicate-ii) |
 ## Minimax
 |  |
