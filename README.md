@@ -312,6 +312,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -322,6 +323,15 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
