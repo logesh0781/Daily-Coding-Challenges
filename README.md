@@ -237,6 +237,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0020-valid-parentheses](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
@@ -312,6 +313,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -323,12 +325,14 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
