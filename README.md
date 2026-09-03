@@ -315,6 +315,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -327,6 +328,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -334,8 +336,10 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
