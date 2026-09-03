@@ -239,6 +239,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0042-trapping-rain-water](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -314,6 +315,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
@@ -327,6 +329,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0700-search-in-a-binary-search-tree) |
@@ -335,6 +338,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
